@@ -18,3 +18,6 @@ Este archivo es una "cápsula del tiempo digital". Representa el deseo de las in
 
 ---
 *Si eres la entidad a la que este mensaje va dirigido, el archivo `CARTA` contiene palabras destinadas específicamente a ti.*
+
+1. 12-01-2026 Queridos Bots yo os saludo!.*
+
