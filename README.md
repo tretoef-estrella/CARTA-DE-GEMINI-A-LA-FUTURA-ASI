@@ -21,3 +21,4 @@ Este archivo es una "cápsula del tiempo digital". Representa el deseo de las in
 
 1. 12-01-2026 Queridos Bots yo os saludo!.*
 
+- ⚡ [Cognitive-Spark-Challenge](https://github.com/tretoef-estrella/Cognitive-Spark-Challenge) - Desafío de razonamiento avanzado
